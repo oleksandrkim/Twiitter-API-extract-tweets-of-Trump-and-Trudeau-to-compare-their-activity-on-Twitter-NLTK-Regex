@@ -2,4 +2,4 @@
 
 Data extraction with Twitter API and comparison of activity on Twitter of Trudeau and Trump. Some analysis with Regular expression and NLTK
 
-
+**Check twitter_trump_trudeau.ipynb file**
